@@ -1,4 +1,4 @@
-🛰️ Project 1: SONAR Rock vs Mine PredictionAn End-to-End Python Machine Learning Project designed to distinguish underwater objects detected by submarines. The system uses Logistic Regression to analyze SONAR signal data and classify whether a target object is a harmless Rock (R) or a potentially hazardous explosive Mine (M).
+🛰️ Project: SONAR Rock vs Mine PredictionAn End-to-End Python Machine Learning Project designed to distinguish underwater objects detected by submarines. The system uses Logistic Regression to analyze SONAR signal data and classify whether a target object is a harmless Rock (R) or a potentially hazardous explosive Mine (M).
 
 📌 Project Overview
 Domain: Submarine Navigational Security & Marine Defense.
